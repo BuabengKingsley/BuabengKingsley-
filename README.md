@@ -2,7 +2,7 @@ Hello Family, I’m Kingsley Buabeng 👨‍💻
 KING_BU
 - 🎓 Final-year Computer Science student @ GCTU  
 - 🏆 Winner: GCTU Technology Business (TECHBIZ) Competition[https://site.gctu.edu.gh/news/fiximami-wins-big-at-maiden-techbiz-gctu-competition.aspx]  
-- 🤖 Building projects in Web Development, and Deep Learning 
+- 🤖 Building projects in Web Development, AI, and Deep Learning 
 - 💡 I love turning ideas into real-world tech projects  
 - 🌍 Passionate about applying technology to solve human-centered problems  
 - 📌 Currently working on: UTI detection using Deep Learning  
